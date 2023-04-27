@@ -11,5 +11,5 @@ const {decryptor} = require("./decryptor")
 
 /* @param (source:string,destination?:string) */
 
-encryptor("../files/read.txt","../files/encrypted.txt")  // I am currently using the relative path but you can also add the absolute path
+encryptor("../files/read.txt","../files/encrypted.txt")  // I am currently using the relative path but you can also add the absolute path.
 // decryptor("../files/encrypted.txt","../files/decrypted.txt")
